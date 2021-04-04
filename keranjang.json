@@ -1,0 +1,28 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "Sharp AH-AP5UHL",
+      "harga": 244900,
+      "qty": 1
+    },
+    {
+      "id": 2,
+      "nama": "Daikin FTNE15JEV14",
+      "harga": 555000,
+      "stok": 3,
+      "qty": 6
+    },
+    {
+      "id": 4,
+      "nama": "Panasonic CS-PC9PKJ.",
+      "harga": 3000000,
+      "stok": 1,
+      "qty": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "setrika": [
+    {
+      "id": 1,
+      "nama": "Sharp AH-AP5UHL",
+      "harga": 144900,
+      "gambar": "https://www.blibli.com/p/product-name/is--MYC-60032-00077-00001",
+      "stok": 2
+    },
+    {
+      "id": 2,
+      "nama": "Daikin FTNE15JEV14",
+      "harga": 255000,
+      "gambar": "https://id.priceprice.com/Daikin-FTNE15JEV14-19235/",
+      "stok": 2
+    },
+    {
+      "id": 3,
+      "nama": "Panasonic CS-PC9PKJ",
+      "harga": 179000,
+      "gambar": "https://media.pricebook.co.id/images/product/L/48115_L_1.jpg",
+      "stok": 2
+    }
+    
+   
